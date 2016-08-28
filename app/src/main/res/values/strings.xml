@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Another Pong (Version 1.00)</string>
+    <string name="single_player">Single Player</string>
+    <string name="multi_player">Multi Player</string>
+    <string name="game_start">Start</string>
+    <string name="game_stop">Stop</string>
+    <string name="demo_player">Demo</string>
+</resources>
